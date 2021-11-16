@@ -1,0 +1,20 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "y",
+  "main": "index.js",
+  "author": "Charmi mehta",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js",
+    "prod": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
